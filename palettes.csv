@@ -1,36 +1,74 @@
-﻿name,inspo,harmony,tags,background,stroke,color1,color2,color3,color4,color5,color6
-lawn,picture of me laying on the lawn,,,,,#4b6720,#183617,#c4cd47,#2e717a,#d7a0a4,
-prismatica,grand prismatic spring,,,,,#c46429,#cfb291,#7cadbd,#8aaec8,,
-timp,timp picture,,,,,#e1cbc1,#3c80bd,#5c7561,,,
-cabin,old cabin at sundance,,,,,#a88671,#2f2f2d,#5f4a49,#336558,#879f85,
-arroz,rice and beans,,food,,,#c97f1a,#f5bf3c,#ac703d,#c3a66c,#ab4601,
-afghan,bisou and sarah on couch,,,,,#d1b02c,#5f6542,#5f6542,#847843,#efe5cc,
-bearpot,bear pot at cabin,,,,,#d39388,#595350,#d1c8cb,#93746d,#2d2e30,#806f55
-flathead,glacier pic,,,,,#3b7566,#2d4242,#263923,#a3a194,#df998f,
-hotchicken,hot chicken sandwich,,food,,,#3387da,#cfcec0,#c24d0e,#ffdc84,,
-baja,baja blast,,food,,,#b7d7ca,#b1bb84,#bedccf,#caded6,,
-shelf,"bookcase with clock, plant",,,,,#1c6029,#663f35,#ebdbc4,#7f8893,#f6f4f5,#ad520e
-sweetwater,car at sweetwater place,,,,,#0f1e21,#cb9f8f,#7e7643,#6a8db6,#ad996f,
-shakespeare,shakespear map,,artwork,,,#bebfaf,#d7b667,#be8b88,,,
-fence,pic of me in front of fence,,,,,#e1b473,#248170,#2791bb,#b7a477,,
-birthday,olin's birthday,,,,,#e65131,#eac79c,#90b33d,#dcaf35,#726c49,#306a74
-slam01,art at slam,,artwork,,,#0c4a93,#e3cb3e,#dd7e45,#7cbc74,#f6c9a9,
-chirico,chirico painting,,artwork,,,#d5c29c,#d29c1d,#73663d,#814110,#372f1b,#e3b535
-richter,richter painting,,artwork,,,#343526,#de9236,#fee3bd,#c52301,,
-moa01,art at moa,,artwork,,,#c9993f,#a05304,#d8ab82,#e6ca9d,#666b5d,#787b35
-bluff,stairs at beach in sd,,,,,#a35739,#9d8361,#2c340f,#9a562b,#66a2b4,
-crane,cranes at beach in sd,,,,,#ac5a1f,#f4ede8,#5a7478,,,
-tidepool01,tidepools in sd,,,,,#a44e2b,#8594a5,#3a6929,#d5c0a7,,
-tidepool02,tidepools in sd,,,,,#316c22,#78995c,#99b48b,#3b6a7a,#883d1e,
-castle,at disneyland,,,,,#72ceeb,#c9615e,#0f554a,#c62f2a,#c9bfbf,
-droid,at starwars land,,,,,#00ab70,#dfe0e4,#c0dad7,#837649,#abd3e4,
-carl,statue at carlsbad water palce,,,,,#58abdb,#b5b2ac,#a99597,#919aa1,#1e2229,
-dorados,rolled tacos,,food,,,#e9c32c,#c0520e,#7e6b29,#c18119,,
-monte01,painting in degraws living room,,artwork,,,#28198,#bd7f23,#a92d19,#083c64,#e69382,#d3b47f
-ferry,ferry seattle to bainbridge,,,,,#2.78E+81,#c9beba,#187674,#767d69,#83b0ca,
-corgi01,poppy in seattle,,,,,#e0b365,#9a6031,#eee4c9,,,
-skylight,house in seattle,,,#fff,#000,#fc0000,#00ead9,#00d62e,#0054ff,#ffa900,#fffece
-lowell,sign in pike place,,,#000,,#d3a35c,#f2effa,#e87e58,#749df8,#84d9e9,
-af,sidewalk in american fork,,,,,#f7d59c,#d89556,#312214,#6b5136,,
-jack,jack o lantern metal sculpture at jakers,,,,,#ba5120,#0e1d23,#0260a6,,,
-kernel,corn pit at jakers,,,,,#e2d1b9,#c3a163,#d0971e,,,
+﻿inspo,name,harmony,tags,background,stroke,color1,color2,color3,color4,color5,colors
+picture of me laying on the lawn,lawn,sc,nature,#fff,#000,#4b6720,#183617,#c4cd47,#2e717a,#d7a0a4,"{'#4b6720','#183617','#c4cd47','#2e717a','#d7a0a4'}"
+grand prismatic spring,prismatica,co,nature,#000038,#000,#e37430,#e3c39f,#8ed2e6,#7ef5db,,"{'#e37430','#e3c39f','#8ed2e6','#7ef5db',''}"
+timp picture,timp,co,nature,#BBCFC9,#000,#D6C19B,#3c80bd,#6B8B70,,,"{'#D6C19B','#3c80bd','#6B8B70','',''}"
+old cabin at sundance,cabin,co,nature,#2f2f2d,#D9D9D0,#5f4a49,#a88671,#879f85,#336558,,"{'#5f4a49','#a88671','#879f85','#336558',''}"
+rice and beans,frijole,an,food,#c3a66c,#000,#c97f1a,#f5bf3c,#ac703d,#de3802,,"{'#c97f1a','#f5bf3c','#ac703d','#de3802',''}"
+bisou and sarah on couch,afghan,mo,object,#efe5cc,#000,#d1bf25,#666446,#857d3f,,,"{'#d1bf25','#666446','#857d3f','',''}"
+bear pot at cabin,bearpot,an,object,#2d2e30,#000,#d39388,#595350,#d1c8cb,#93746d,#806f55,"{'#d39388','#595350','#d1c8cb','#93746d','#806f55'}"
+glacier pic,flathead,sc,nature,#fff,#000,#3b7566,#2d4242,#263923,#a3a194,#df7c72,"{'#3b7566','#2d4242','#263923','#a3a194','#df7c72'}"
+hot chicken sandwich,hotchicken,sc,food,#000,#000,#3387da,#FCFBEB,#c24d0e,#ffdc84,,"{'#3387da','#FCFBEB','#c24d0e','#ffdc84',''}"
+baja blast,baja,mo,food,#000,#A15AB3,#B7D7CA,#95DCCF,#67EDBE,,,"{'#B7D7CA','#95DCCF','#67EDBE','',''}"
+"bookcase with clock, plant",shelf,co,object,#f6f4f5,#000,#1c6029,#663f35,#ebdbc4,#7f8893,,"{'#1c6029','#663f35','#ebdbc4','#7f8893',''}"
+shakespear map,shakespeare,tr,artwork,#1F114A,#000,#D6E9F2,#E4E0B8,#be8b88,,,"{'#D6E9F2','#E4E0B8','#be8b88','',''}"
+pic of me in front of fence,fence,co,object,#fff,#000,#2791BB,#248170,#E1B473,#b7a477,,"{'#2791BB','#248170','#E1B473','#b7a477',''}"
+olin's birthday,birthday,sq,object,#726c49,#000,#e65131,#306a74,#90b33d,#dcaf35,,"{'#e65131','#306a74','#90b33d','#dcaf35',''}"
+art at slam,slam01,ds,artwork,#fff,#000,#0c4a93,#e3cb3e,#dd7e45,#7cbc74,#F6B4A9,"{'#0c4a93','#e3cb3e','#dd7e45','#7cbc74','#F6B4A9'}"
+chirico painting,chirico,sc,artwork,#D5C29C,#000,#234459,#d29c1d,#73663d,#814110,#372f1b,"{'#234459','#d29c1d','#73663d','#814110','#372f1b'}"
+richter painting,richter,an,artwork,#230000,#000,#403A29,#D6A451,#8C2A14,#BF705E,,"{'#403A29','#D6A451','#8C2A14','#BF705E',''}"
+art at moa,moa01,an,artwork,#fff,#000,#c9993f,#787b35,#C24D04,#787b35,#666b5d,"{'#c9993f','#787b35','#C24D04','#787b35','#666b5d'}"
+stairs at beach in sd,bluff,tr,nature,#EEEAD0,#9d8361,#a35739,#4E5C1B,#66a2b4,,,"{'#a35739','#4E5C1B','#66a2b4','',''}"
+cranes at beach in sd,crane,co,object,#EBB591,#000,#ac5a1f,#f4ede8,#5a7478,#BABECC,,"{'#ac5a1f','#f4ede8','#5a7478','#BABECC',''}"
+tidepools in sd,tidepool01,sc,nature,#DDEEFF,#000,#a44e2b,#8594a5,#3a6929,#d5c0a7,,"{'#a44e2b','#8594a5','#3a6929','#d5c0a7',''}"
+tidepools in sd,tidepool02,mo,nature,#3b6a7a,#fff,#316c22,#78995c,#99b48b,,,"{'#316c22','#78995c','#99b48b','',''}"
+at disneyland,castle,co,object,#E6DADA,#000,#0f554a,#72ceeb,#c9615e,#c62f2a,,"{'#0f554a','#72ceeb','#c9615e','#c62f2a',''}"
+at starwars land,droid,an,object,#fff,#000,#24AD70,#B5A465,#dfe0e4,#c0dad7,#abd3e4,"{'#24AD70','#B5A465','#dfe0e4','#c0dad7','#abd3e4'}"
+statue at carlsbad water palce,carl,ds,object,#fff,#000,#58abdb,#b5b2ac,#a99597,#7C848A,#1e2229,"{'#58abdb','#b5b2ac','#a99597','#7C848A','#1e2229'}"
+rolled tacos,dorados,an,food,#DDDDBB,#000,#9EAD2C,#e9c32c,#c18119,#c0520e,,"{'#9EAD2C','#e9c32c','#c18119','#c0520e',''}"
+painting in degraws living room,monte01,sc,artwork,#083c64,#000,#0298B3,#EDD6B1,#e69382,#a92d19,#BD7F23,"{'#0298B3','#EDD6B1','#e69382','#a92d19','#BD7F23'}"
+ferry seattle to bainbridge,ferry,an,object,#CCEDDD,#C9BEBA,#767d69,#34A357,#187674,#83b0ca,,"{'#767d69','#34A357','#187674','#83b0ca',''}"
+poppy in seattle,poppy01,mo,nature,#fff,#000,#9a6031,#e0b365,#eee4c9,,,"{'#9a6031','#e0b365','#eee4c9','',''}"
+house in seattle,skylight,ds,object,#FFFECE,#000,#fc0000,#00ead9,#00d62e,#0054ff,#ffa900,"{'#fc0000','#00ead9','#00d62e','#0054ff','#ffa900'}"
+sign in pike place,lowell,tr,object,#000,#f1f3ff,#E6C440,#E85168,#3E76E6,#84D9E9,,"{'#E6C440','#E85168','#3E76E6','#84D9E9',''}"
+sidewalk in american fork,af,mo,object,#DDE1DF,#000,#f7d59c,#d89556,#6b5136,#312214,,"{'#f7d59c','#d89556','#6b5136','#312214',''}"
+jack o lantern metal sculpture at jakers,jack,co,object,#fff,#D4D4D4,#bd7628,#0e1d23,#0260a6,,,"{'#bd7628','#0e1d23','#0260a6','',''}"
+corn pit at jakers,kernel,mo,nature,#fff,#000,#e2d1b9,#c3a163,#d0971e,,,"{'#e2d1b9','#c3a163','#d0971e','',''}"
+custom with picker,primary01,tr,design,#000,#000,#30a6e6,#ffff75,#ff7169,,,"{'#30a6e6','#ffff75','#ff7169','',''}"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
