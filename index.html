@@ -18,8 +18,10 @@
 
         let pals = palettes.getAll();
 
+        let palsHarm = palettes.getAllBySize(1);
+        console.log(palsHarm)
+
         pals.forEach(pal => {
-            console.dir(pal['name']);
             var newDiv = document.createElement("div");
             newDiv.setAttribute('class', 'pal-name')
             var newContent = document.createTextNode(pal['name']);
