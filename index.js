@@ -1,4 +1,3 @@
-// import palettes from './palettes.js';
 import palettes from './palettes-json.js'
 
 function getAll() {
