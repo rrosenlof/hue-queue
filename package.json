@@ -1,6 +1,6 @@
 {
   "name": "hue-queue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A collection of colors palettes in JSON",
   "main": "index.js",
   "scripts": {

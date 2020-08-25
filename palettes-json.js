@@ -5,7 +5,7 @@ export default [
     tags: "nature",
     background: "#fff",
     stroke: "#000",
-    colors: ['#4b6720', '#183617', '#c4cd47', '#2e717a', '#d7a0a4']
+    colors: ['#183617', '#4b6720',  '#c4cd47', '#2e717a', '#d7a0a4']
   },
   {
     name: "prismatica",
@@ -21,7 +21,7 @@ export default [
     tags: "nature",
     background: "#BBCFC9",
     stroke: "#000",
-    colors: ['#D6C19B', '#3c80bd', '#6B8B70']
+    colors: ['#3c80bd', '#D6C19B',  '#6B8B70']
   },
   {
     name: "cabin",
@@ -37,7 +37,7 @@ export default [
     tags: "food",
     background: "#c3a66c",
     stroke: "#000",
-    colors: ['#c97f1a', '#f5bf3c', '#ac703d', '#de3802']
+    colors: ['#de3802', '#c97f1a', '#f5bf3c', '#ac703d']
   },
   {
     name: "afghan",
@@ -53,7 +53,7 @@ export default [
     tags: "object",
     background: "#2d2e30",
     stroke: "#000",
-    colors: ['#d39388', '#595350', '#d1c8cb', '#93746d', '#806f55']
+    colors: ['#d39388', '#d1c8cb', '#93746d', '#806f55', '#595350']
   },
   {
     name: "flathead",
@@ -91,8 +91,8 @@ export default [
     name: "shakespeare",
     harmony: "tr",
     tags: "artwork",
-    background: "#1F114A",
-    stroke: "#000",
+    background: "#0b061c",
+    stroke: "#0b061c",
     colors: ['#D6E9F2', '#E4E0B8', '#be8b88']
   },
   {
@@ -133,7 +133,7 @@ export default [
     tags: "artwork",
     background: "#230000",
     stroke: "#000",
-    colors: ['#403A29', '#D6A451', '#8C2A14', '#BF705E']
+    colors: ['#61583f', '#D6A451', '#8C2A14', '#BF705E']
   },
   {
     name: "moa01",
@@ -269,7 +269,7 @@ export default [
     tags: "nature",
     background: "#fff",
     stroke: "#000",
-    colors: ['#e2d1b9', '#c3a163', '#d0971e']
+    colors: ['#e2d1b9', '#c3a163', '#a3720a']
   },
   {
     name: "primary01",
@@ -281,79 +281,79 @@ export default [
   },
   {
     name: "albers01",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#b7c4cc",
-    stroke: "",
-    colors: ['#437db8','#293769','#387877']
+    stroke: "#000",
+    colors: ['#437db8','#387877','#293769']
   },
   {
     name: "albers02",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#bac0cc",
-    stroke: "",
-    colors: ['#97692e','#a12f2a','#874368','#a6495f']
+    stroke: "#000",
+    colors: ['#97692e','#a12f2a','#874368','#c7637b']
   },
   {
     name: "albers03",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#c5ab8c",
-    stroke: "",
+    stroke: "#000",
     colors: ['#953a41','#4262ab','#785a98','#346864']
   },
   {
     name: "albers04",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#cecabf",
-    stroke: "",
-    colors: ['#8d5c19','#797a7d','#ba977b','#74afdd','#415a44']
+    stroke: "#000",
+    colors: ['#8d5c19','#797a7d','#415a44', '#74afdd','#ba977b']
   },
   {
     name: "albers05",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#d9613f",
-    stroke: "",
-    colors: ['#97423f','#ad5a45','#694d41','#1f487a']
+    stroke: "#000",
+    colors: ['#97423f','#d1725a','#694d41','#1f487a']
   },
   {
     name: "albers06",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#326e5b",
-    stroke: "",
+    stroke: "#000",
     colors: ['#53585f','#becad3','#14191d']
   },
   {
     name: "albers07",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#8d9699",
-    stroke: "",
+    stroke: "#000",
     colors: ['#a9bbc5','#0f181c','#80471c']
   },
   {
     name: "albers08",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#4c99cd",
-    stroke: "",
+    stroke: "#000",
     colors: ['#7a8594','#afc0d2','#9c9100']
   },
   {
     name: "matisse01",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
-    background: "#b1a072",
-    stroke: "",
+    background: "#f2e8ce",
+    stroke: "#f2e8ce",
     colors: ['#0d2e75']
   },
   {
     name: "peachbowl",
-    harmony: "",
+    harmony: "tbd",
     tags: "food",
     background: "#d0ab8a",
     stroke: "#3a3027",
@@ -361,15 +361,15 @@ export default [
   },
   {
     name: "blanket",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#f9efe3",
     stroke: "#ca421b",
-    colors: ['#73727d','#6e4b4b','#9a99a3']
+    colors: ['#393657','#6e4b4b','#9a99a3']
   },
   {
     name: "donut",
-    harmony: "",
+    harmony: "tbd",
     tags: "food",
     background: "#dbd1d9",
     stroke: "#fff",
@@ -377,23 +377,23 @@ export default [
   },
   {
     name: "stainedglass",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#6a6663",
-    stroke: "#150f0f",
+    stroke: "#2a0505",
     colors: ['#f6530e','#f68a26','#fdfd29','#2a0505']
   },
   {
     name: "pivoines",
-    harmony: "",
+    harmony: "tbd",
     tags: "nature",
-    background: "#ce6726",
-    stroke: "#856800",
+    background: "#faf0e8",
+    stroke: "#4a8540",
     colors: ['#ffa376','#c91116','#fee658']
   },
   {
     name: "vangogh01",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#addfd4",
     stroke: "#feffd7",
@@ -401,23 +401,23 @@ export default [
   },
   {
     name: "cezanne01",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#ba7144",
-    stroke: "#945668",
-    colors: ['#212e3b','#8d7956','#c6cccc']
+    stroke: "#ba7144",
+    colors: ['#212e3b','#8d7956','#c6cccc', '#945668']
   },
   {
     name: "vangogh02",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
-    background: "",
-    stroke: "",
+    background: "#fff",
+    stroke: "#000",
     colors: ['#37577c','#2f3826','#9b8850','#895343','#99978b']
   },
   {
     name: "vangogh03",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#fcf2b3",
     stroke: "#0e1e15",
@@ -425,15 +425,15 @@ export default [
   },
   {
     name: "monet01",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
-    background: "",
-    stroke: "",
+    background: "#fff",
+    stroke: "#000",
     colors: ['#fbe6c9','#b99181','#909daf','#737841']
   },
   {
     name: "macaron",
-    harmony: "",
+    harmony: "tbd",
     tags: "food",
     background: "#bde0da",
     stroke: "#443035",
@@ -441,7 +441,7 @@ export default [
   },
   {
     name: "palais",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#6f7787",
     stroke: "#dfd3c7",
@@ -449,7 +449,7 @@ export default [
   },
   {
     name: "cellar",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#b7afa1",
     stroke: "#2b2118",
@@ -457,15 +457,15 @@ export default [
   },
   {
     name: "tricolore",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#c0c1bc",
     stroke: "#8b7e6f",
-    colors: ['#4b69c9','#f0eabc','#531725']
+    colors: ['#4b69c9','#f0eabc','#8c1934']
   },
   {
     name: "vitrail",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#0e0d0a",
     stroke: "#0e0d0a",
@@ -473,7 +473,7 @@ export default [
   },
   {
     name: "mosaic",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#000",
     stroke: "#fff",
@@ -481,15 +481,15 @@ export default [
   },
   {
     name: "overwings",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#dbd3c6",
     stroke: "#20201e",
-    colors: ['#e6d853','#c6343e','#c6343e']
+    colors: ['#e6d853','#c6343e','#20201e']
   },
   {
     name: "tiles",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#edd5bb",
     stroke: "#5a4b3f",
@@ -497,7 +497,7 @@ export default [
   },
   {
     name: "capistrano01",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#fbf0e7",
     stroke: "#fbf0e7",
@@ -505,15 +505,15 @@ export default [
   },
   {
     name: "capistrano02",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
-    background: "#3a68b7",
+    background: "#6f96d9",
     stroke: "#201f2e",
-    colors: ['#ac6b5f','#e5e7da','#908d87','#5f6e3d']
+    colors: ['#ac6b5f','#f8faf0','#908d87','#5f6e3d']
   },
   {
     name: "cowboy",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#987d70",
     stroke: "#615b55",
@@ -521,7 +521,7 @@ export default [
   },
   {
     name: "flannel",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#e8e1de",
     stroke: "#806a62",
@@ -529,39 +529,39 @@ export default [
   },
   {
     name: "sweater",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#b69e77",
-    stroke: "#6f6254",
+    stroke: "#5b4d44",
     colors: ['#b57862','#5b4d44','#dbc2a0']
   },
   {
     name: "hill",
-    harmony: "",
+    harmony: "tbd",
     tags: "nature",
     background: "#eaeaec",
     stroke: "#463d3b",
-    colors: ['#637953','#4e4c56','#663339','#a46645']
+    colors: ['#637953','#676475','#663339','#a46645']
   },
   {
     name: "belle",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#0f0e18",
     stroke: "#9d9892",
-    colors: ['#464236','#42171b','#918e88']
+    colors: ['#464236','#42171b','#9d9892']
   },
   {
     name: "thrift",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#827a65",
     stroke: "#000",
-    colors: ['#2b2c30','#e7d4c5','#4d5153','#e1d8cd']
+    colors: ['#2b2c30','#4d5153','#e7d4c5','#e1d8cd']
   },
   {
     name: "fruitplate",
-    harmony: "",
+    harmony: "tbd",
     tags: "food",
     background: "#ede6e1",
     stroke: "#4e433e",
@@ -569,15 +569,15 @@ export default [
   },
   {
     name: "stovetop",
-    harmony: "",
+    harmony: "tbd",
     tags: "food",
     background: "#60574d",
     stroke: "#fcf6ea",
-    colors: ['#efc47b','#cd473b','#dc875a']
+    colors: ['#cd473b','#dc875a','#efc47b']
   },
   {
     name: "citycenter",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#266f9b",
     stroke: "#291812",
@@ -585,15 +585,15 @@ export default [
   },
   {
     name: "sneaker",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#262822",
-    stroke: "#bdc4bb",
-    colors: ['#33433b','#523326']
+    stroke: "#e9ede8",
+    colors: ['#406b56','#523326']
   },
   {
-    name: "campfire",
-    harmony: "",
+    name: "nebo",
+    harmony: "tbd",
     tags: "nature",
     background: "#f3f1f6",
     stroke: "#3f494c",
@@ -601,7 +601,7 @@ export default [
   },
   {
     name: "smore",
-    harmony: "",
+    harmony: "tbd",
     tags: "nature",
     background: "#080f10",
     stroke: "#f9fafc",
@@ -609,31 +609,31 @@ export default [
   },
   {
     name: "mesa",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#e7c8b4",
     stroke: "#545448",
-    colors: ['#d8a688','#796658','#b4c7d8','#e7c8b4']
+    colors: ['#d8a688','#8f7a6b','#b4c7d8']
   },
   {
     name: "swami",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#f3d2a1",
     stroke: "#7e6057",
-    colors: ['#fdfcf8','#435467','#516426']
+    colors: ['#435467','#516426','#fdfcf8']
   },
   {
     name: "bucerias",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#fffffd",
-    stroke: "#892212",
-    colors: ['#fe0969','#920dac','#2b1b23']
+    stroke: "#2b1b23",
+    colors: ['#fe0969','#920dac','#b82912']
   },
   {
     name: "provost",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#3e3b34",
     stroke: "#7f6c4b",
@@ -641,7 +641,7 @@ export default [
   },
   {
     name: "jump",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#040406",
     stroke: "#b0b0b0",
@@ -649,39 +649,31 @@ export default [
   },
   {
     name: "joe",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#dfd6cd",
     stroke: "#222222",
     colors: ['#293468','#9b2224','#9e9a91']
   },
   {
-    name: "flight",
-    harmony: "",
-    tags: "object",
-    background: "#151618",
-    stroke: "#e7e7e3",
-    colors: ['#a34d28']
-  },
-  {
-    name: "picassoc01",
-    harmony: "",
+    name: "picasso01",
+    harmony: "tbd",
     tags: "artwork",
     background: "#4a3c2f",
     stroke: "#1a1a16",
-    colors: ['#dfc386','#d45638','#d8932d','#3f3e44']
+    colors: ['#d45638','#d8932d','#dfc386','#3f3e44']
   },
   {
     name: "pear",
-    harmony: "",
+    harmony: "tbd",
     tags: "food",
-    background: "#c4ab89",
+    background: "#b4c295",
     stroke: "#403c3b",
     colors: ['#b25132','#df9c43','#dbbd7b']
   },
   {
     name: "dodger",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#7999c6",
     stroke: "#dfdcf5",
@@ -689,7 +681,7 @@ export default [
   },
   {
     name: "patch",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#ded1c8",
     stroke: "#a1b5b4",
@@ -697,7 +689,7 @@ export default [
   },
   {
     name: "camper",
-    harmony: "",
+    harmony: "tbd",
     tags: "object",
     background: "#1b182e",
     stroke: "#ced5e7",
@@ -705,31 +697,23 @@ export default [
   },
   {
     name: "bo",
-    harmony: "",
+    harmony: "tbd",
     tags: "artwork",
     background: "#161417",
-    stroke: "#d1c9d1",
+    stroke: "#fff",
     colors: ['#393870','#bb8520','#c22f3b','#d1e38d']
   },
   {
-    name: "cliff",
-    harmony: "",
-    tags: "artwork",
-    background: "#ad8f6c",
-    stroke: "#040203",
-    colors: ['#8f5c1a']
-  },
-  {
-    name: "auto",
-    harmony: "",
+    name: "chiquita",
+    harmony: "tbd",
     tags: "object",
     background: "#cbaf84",
     stroke: "#21180d",
-    colors: ['#485949','#731f13','#d58c4c']
+    colors: ['#485949','#9cba9e','#731f13','#d58c4c']
   },
   {
     name: "beloeil",
-    harmony: "",
+    harmony: "tbd",
     tags: "nature",
     background: "#fefefe",
     stroke: "#15100a",
