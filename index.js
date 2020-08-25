@@ -47,4 +47,9 @@ function getRandomBySize(size) {
   return pals[Math.floor(Math.random() * pals.length)]
 }
 
-export { getRandom, get, getAll, getNames, getAllByHarmony, getAllByTags, getAllBySize, getRandomByHarmony, getRandomByTag, getRandomBySize };
+function getRandomColor() {
+  var pal = getRandom();
+  return pal['colors'][Math.floor(Math.random() * pal.length)]
+}
+
+export { getRandom, get, getAll, getNames, getAllByHarmony, getAllByTags, getAllBySize, getRandomByHarmony, getRandomByTag, getRandomBySize, getRandomColor };
