@@ -49,7 +49,7 @@ function getRandomBySize(size) {
 
 function getRandomColor() {
   var pal = getRandom();
-  return pal['colors'][Math.floor(Math.random() * pal.length)]
+  return pal.colors[Math.floor(Math.random() * pal.colors.length)];
 }
 
 export { getRandom, get, getAll, getNames, getAllByHarmony, getAllByTags, getAllBySize, getRandomByHarmony, getRandomByTag, getRandomBySize, getRandomColor };
