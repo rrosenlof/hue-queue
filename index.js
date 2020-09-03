@@ -28,7 +28,7 @@ function getAllByTags(tag) {
 }
 
 function getAllBySize(size) {
-  var pals = palettes.filter(pal => pal.colors.length == size);
+  var pals = palettes.filter(pal => pal.hex.colors.length == size);
   return (pals.length == 0 ?  'No palettes of that size' :  pals);
 }
 
@@ -49,7 +49,7 @@ function getRandomBySize(size) {
 
 function getRandomColor() {
   var pal = getRandom();
-  return pal.colors[Math.floor(Math.random() * pal.colors.length)];
+  return pal.hex.colors[Math.floor(Math.random() * pal.hex.colors.length)];
 }
 
 export { getRandom, get, getAll, getNames, getAllByHarmony, getAllByTags, getAllBySize, getRandomByHarmony, getRandomByTag, getRandomBySize, getRandomColor };
