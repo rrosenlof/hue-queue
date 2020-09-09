@@ -4,8 +4,8 @@ A collection of color palettes, for anyone to use. Started in August 2020, and a
 
 ## Next Steps
 
-- [ ] Convert colors to rgb
-- [ ] Convert colors to hsb/hsl
+- [x] Convert colors to rgb
+- [x] Convert colors to hsb/hsl
 - [ ] Assign harmonies
 - [x] Clean up the color palettes
 - [ ] Organize palettes (make the tags better, or remove)
