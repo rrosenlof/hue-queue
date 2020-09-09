@@ -132,7 +132,7 @@ export default [
       ]
     },
     "hex":{
-      "background":"#000000038",
+      "background":"#0000038",
       "stroke":"#000000",
       "colors":[
         "#e37430",
@@ -6243,7 +6243,7 @@ export default [
       ]
     },
     "hex":{
-      "background":"#ffffffffd",
+      "background":"#fffffd",
       "stroke":"#2b1b23",
       "colors":[
         "#fe0969",
