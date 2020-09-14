@@ -15,7 +15,7 @@ export default [
   {
     name:"prismatica",
     harmony:"co",
-    background:"#0000038",
+    background:"#000038",
     stroke:"#000000",
     colors:[
       "#E37430",
@@ -48,7 +48,7 @@ export default [
     ]
   },
   {
-    name:"frijole",
+    name:"frijol",
     harmony:"an",
     background:"#C3A66C",
     stroke:"#000000",
@@ -168,7 +168,7 @@ export default [
     ]
   },
   {
-    name:"slam01",
+    name:"slam_01",
     harmony:"ds",
     background:"#FFFFFF",
     stroke:"#000000",
@@ -206,7 +206,7 @@ export default [
     ]
   },
   {
-    name:"moa01",
+    name:"moa_01",
     harmony:"an",
     background:"#FFFFFF",
     stroke:"#000000",
@@ -241,7 +241,7 @@ export default [
     ]
   },
   {
-    name:"tidepool01",
+    name:"tidepool_01",
     harmony:"sc",
     background:"#DDEEFF",
     stroke:"#000000",
@@ -253,7 +253,7 @@ export default [
     ]
   },
   {
-    name:"tidepool02",
+    name:"tidepool_02",
     harmony:"mo",
     background:"#3B6A7A",
     stroke:"#FFFFFF",
@@ -314,7 +314,7 @@ export default [
     ]
   },
   {
-    name:"monte01",
+    name:"monte_01",
     harmony:"sc",
     background:"#083C64",
     stroke:"#000000",
@@ -339,7 +339,7 @@ export default [
     ]
   },
   {
-    name:"poppy01",
+    name:"poppy_01",
     harmony:"mo",
     background:"#FFFFFF",
     stroke:"#000000",
@@ -409,7 +409,7 @@ export default [
     ]
   },
   {
-    name:"primary01",
+    name:"primary_01",
     harmony:"tr",
     background:"#000000",
     stroke:"#000000",
@@ -420,7 +420,7 @@ export default [
     ]
   },
   {
-    name:"albers01",
+    name:"albers_01",
     harmony:"tbd",
     background:"#B7C4CC",
     stroke:"#000000",
@@ -431,7 +431,7 @@ export default [
     ]
   },
   {
-    name:"albers02",
+    name:"albers_02",
     harmony:"tbd",
     background:"#BAC0CC",
     stroke:"#000000",
@@ -443,7 +443,7 @@ export default [
     ]
   },
   {
-    name:"albers03",
+    name:"albers_03",
     harmony:"tbd",
     background:"#C5AB8C",
     stroke:"#000000",
@@ -455,7 +455,7 @@ export default [
     ]
   },
   {
-    name:"albers04",
+    name:"albers_04",
     harmony:"tbd",
     background:"#CECABF",
     stroke:"#000000",
@@ -468,7 +468,7 @@ export default [
     ]
   },
   {
-    name:"albers05",
+    name:"albers_05",
     harmony:"tbd",
     background:"#D9613F",
     stroke:"#000000",
@@ -480,7 +480,7 @@ export default [
     ]
   },
   {
-    name:"albers06",
+    name:"albers_06",
     harmony:"tbd",
     background:"#326E5B",
     stroke:"#000000",
@@ -491,7 +491,7 @@ export default [
     ]
   },
   {
-    name:"albers07",
+    name:"albers_07",
     harmony:"tbd",
     background:"#8D9699",
     stroke:"#000000",
@@ -502,7 +502,7 @@ export default [
     ]
   },
   {
-    name:"albers08",
+    name:"albers_08",
     harmony:"tbd",
     background:"#4C99CD",
     stroke:"#000000",
@@ -513,7 +513,7 @@ export default [
     ]
   },
   {
-    name:"matisse01",
+    name:"matisse_01",
     harmony:"tbd",
     background:"#F2E8CE",
     stroke:"#F2E8CE",
@@ -577,7 +577,7 @@ export default [
     ]
   },
   {
-    name:"vangogh01",
+    name:"vangogh_01",
     harmony:"tbd",
     background:"#ADDFD4",
     stroke:"#FEFFD7",
@@ -588,7 +588,7 @@ export default [
     ]
   },
   {
-    name:"cezanne01",
+    name:"cezanne_01",
     harmony:"tbd",
     background:"#BA7144",
     stroke:"#BA7144",
@@ -600,7 +600,7 @@ export default [
     ]
   },
   {
-    name:"vangogh02",
+    name:"vangogh_02",
     harmony:"tbd",
     background:"#FFFFFF",
     stroke:"#000000",
@@ -613,7 +613,7 @@ export default [
     ]
   },
   {
-    name:"vangogh03",
+    name:"vangogh_03",
     harmony:"tbd",
     background:"#FCF2B3",
     stroke:"#0E1E15",
@@ -625,7 +625,7 @@ export default [
     ]
   },
   {
-    name:"monet01",
+    name:"monet_01",
     harmony:"tbd",
     background:"#FFFFFF",
     stroke:"#000000",
@@ -730,7 +730,7 @@ export default [
     ]
   },
   {
-    name:"capistrano01",
+    name:"capistrano_01",
     harmony:"tbd",
     background:"#FBF0E7",
     stroke:"#FBF0E7",
@@ -741,7 +741,7 @@ export default [
     ]
   },
   {
-    name:"capistrano02",
+    name:"capistrano_02",
     harmony:"tbd",
     background:"#6F96D9",
     stroke:"#201F2E",
@@ -956,7 +956,7 @@ export default [
     ]
   },
   {
-    name:"picasso01",
+    name:"picasso_01",
     harmony:"tbd",
     background:"#4A3C2F",
     stroke:"#1A1A16",
